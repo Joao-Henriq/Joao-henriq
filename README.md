@@ -7,16 +7,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Henriq)](https://github.com/Joao-Henriq/github-readme-stats)
 ### Tecnologias que utilizo no meu dia-dia
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="./html5.svg""/>
-  <img align="center" alt="CSS3" src="./css3.svg"/>
-  <img align="center" alt="Javascript" src="./javascript.svg"/>
-  <img align="center" alt="React" src="./react.svg"/>
-  <img align="center" alt="NodeJs" src="./nodedotjs.svg"/>
-  <img align="center" alt="Dotnet" src="./dotnet.svg"/>
-  <img align="center" alt="C#" src="./csharp.svg"/>
-  <img align="center" alt="Blazor" src="./blazor.svg"/>
-  <img align="center" alt="mysql" src="./mysql.svg"/>
-  <img align="center" alt="python" src="./python.svg"/>
+  <img width="111" height=28 align="center" alt="HTML5" src="./html5.svg""/>
+  <img width="111" height=28 align="center" alt="CSS3" src="./css3.svg"/>
+  <img width="111" height=28 align="center" alt="Javascript" src="./javascript.svg"/>
+  <img width="111" height=28 align="center" alt="React" src="./react.svg"/>
+  <img width="111" height=28 align="center" alt="NodeJs" src="./nodedotjs.svg"/>
+  <img width="111" height=28 align="center" alt="Dotnet" src="./dotnet.svg"/>
+  <img width="111" height=28 align="center" alt="C#" src="./csharp.svg"/>
+  <img width="111" height=28 align="center" alt="Blazor" src="./blazor.svg"/>
+  <img width="111" height=28 align="center" alt="mysql" src="./mysql.svg"/>
+  <img width="111" height=28 align="center" alt="python" src="./python.svg"/>
 </div>
 
 <br>
